@@ -56,7 +56,7 @@
         <div class="row">
             <div class="col-sm-6">
                 <div class="sub_box">
-                    <div class="link_button">
+                    <div class="link_button"><a href="skypillows/index.php">
                         <img src="/images/person.png" class="instructor_photo" alt="Picture of <?php echo $s1n; ?>">
                         <h2 class="h2_button">
                             <?php echo $s1n; ?> <i class="fa fa-arrow-right"></i> </h2>
@@ -67,6 +67,7 @@
                             <?php echo $s1n; ?> is a senior at Southern New Hampshire University studying Information Technology with a second major in Mathematics.
                             <?php echo $s1n; ?> is an active member in the SNHU community; his involvement includes being Business Manager of the Penmen Press, our prestigious school newspaper. As well as a senator in Student Government and the Treasurer of the Computer and Technology Club.
                             <?php echo $s1n; ?> has also been an RA on campus for three years, most recently in Tuckerman Hall.</p>
+                    </a>
                     </div>
                 </div>
             </div>
