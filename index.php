@@ -90,6 +90,13 @@
         </a></div>
         <?php
         endif;
+      if ($b<6):
+        ?>
+        <div class="link_button"><a href="https://docs.google.com/document/d/1xnM5turh2YA7wYSAJrKQmufO3FMWO4_wirzz9DvKcms/edit?usp=sharing">
+        <h2 class="h2_button">Zero's Code <i class="fa fa-arrow-right"></i> </h2>
+        </a></div>
+        <?php
+        endif;
         if ($b<5):
         ?>
         <div class="link_button"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfPmTDQ9CdNApSKQgmT3eeSNSaBWWgOc-h0ftfYMqPEPQ7u7Q/viewform?usp=sf_link">
