@@ -41,6 +41,7 @@
                         <h2 class="h2_button">Click on any of the instructors for more info! </h2>
                     </div>
                     <div class="link_button">
+                        <a href="jeeves/index.php">
                         <img src="/images/person.png" class="instructor_photo" alt="Picture of <?php echo $s3n; ?>">
                         <h2 class="h2_button">
                             <?php echo $s3n; ?> <i class="fa fa-arrow-right"></i> </h2>
@@ -49,6 +50,7 @@
                             <?php echo $s3n; ?> is a graduate of Edinboro University of Pennsylvania with a Master's Degree in Middle and Secondary Instruction as well as receiving his certification in Secondary Mathematics. He received his Bachelor's Degree in Computer Engineering from Penn State Erie, The Behrend College.
                             <?php echo $s3n; ?> has been a mathematics and computer science teacher for ten years. In his spare time outside of work,
                             <?php echo $s3n; ?> loves skiing and running Tough Mudder obstacle course races.</p>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -56,7 +58,8 @@
         <div class="row">
             <div class="col-sm-6">
                 <div class="sub_box">
-                    <div class="link_button"><a href="skypillows/index.php">
+                    <div class="link_button">
+                        <a href="skypillows/index.php">
                         <img src="/images/person.png" class="instructor_photo" alt="Picture of <?php echo $s1n; ?>">
                         <h2 class="h2_button">
                             <?php echo $s1n; ?> <i class="fa fa-arrow-right"></i> </h2>
@@ -74,12 +77,14 @@
             <div class="col-sm-6">
                 <div class="sub_box">
                     <div class="link_button">
+                        <a href="kirby/index.php">
                         <img src="/images/person.png" class="instructor_photo" alt="Picture of <?php echo $s2n; ?>">
                         <h2 class="h2_button">
                             <?php echo $s2n; ?> <i class="fa fa-arrow-right"></i> </h2>
                         <h3 class="instructor_title">Instructor</h3>
                         <p>
                             <?php echo $s2n; ?> has been studying the field of Game Design for three years now. She attended the Manchester School of Technology for two years in High School, enrolled in the Graphic and Game Design program. Her love for Game Design grew here and she decided to take a programming course over the summer before her Senior year in High School. She received her High School Diploma from Bedford High School in 2017.She now attends Sheridan College in Oakville, Ontario, enrolled in the Honors Bachelor of Game Design Program. She was briefly part of a competitive video gaming team at her school, but had to drop to stay focused on school work.</p>
+                    </a>
                     </div>
                 </div>
             </div>
@@ -89,6 +94,7 @@
                 <div class="sub_box">
 
                     <div class="link_button">
+                        <a href="zero/index.php">
                         <img src="/images/person.png" class="instructor_photo" alt="Picture of <?php echo $s4n; ?>">
                         <h2 class="h2_button">
                             <?php echo $s4n; ?> <i class="fa fa-arrow-right"></i> </h2>
@@ -98,12 +104,14 @@
                             <?php echo $s4n; ?> just finished his second year at the Rochester Institute of Technology, going for a degree in Game Design and Development, and is pumped to share what he has learned with his campers.
                             <?php echo $s4n; ?> has a passion for graphics and game-play programming, as well as creating cool interactive experiences through games. Outside of programming
                             <?php echo $s4n; ?> can often be found playing bass or drums, or doing some sort of music related activity.</p>
+                        </a>
                     </div>
                 </div>
             </div>
             <div class="col-sm-6">
                 <div class="sub_box">
                     <div class="link_button">
+                        <a href="link/index.php">
                         <img src="/images/person.png" class="instructor_photo" alt="Picture of <?php echo $s5n; ?>">
                         <h2 class="h2_button">
                             <?php echo $s5n; ?> <i class="fa fa-arrow-right"></i> </h2>
@@ -112,6 +120,7 @@
                             <?php echo $s5n; ?> is not a stranger to iD Tech Camps, having been a student as a child and having already taught iD tech student for one summer already. A junior at WPI, he has a passion for computer science and technology and is excited to pass on that love to his students.
                             <?php echo $s5n; ?> is currently also pursuing work towards a teaching credentials and work in the psychology field. In his spare time,
                             <?php echo $s5n; ?> loves to play video games in competitive settings and find times to socialize with his friends.</p>
+                   </a>
                     </div>
                 </div>
             </div>
@@ -121,6 +130,7 @@
                 <div class="sub_box">
 
                     <div class="link_button">
+                        <a href="bread/index.php">
                         <img src="/images/person.png" class="instructor_photo" alt="Picture of <?php echo $s6n; ?>">
                         <h2 class="h2_button">
                             <?php echo $s6n; ?> <i class="fa fa-arrow-right"></i> </h2>
@@ -131,6 +141,8 @@
                             <?php echo $s6n; ?> has been passionate about the art and process of filmmaking since the fourth grade. As a rising senior at Emerson College, he has been exposed to some of the most cutting edge technology the industry has to offer.
                             <?php echo $s6n; ?> just recently ended his job at a portrait photography studio in Cambridge in which interacting with families and children was commonplace.
                             <?php echo $s6n; ?> is the one to call for great photos and an excellent teammate in Fortnite.</p>
+                    
+                            </a>
                     </div>
                 </div>
             </div>
